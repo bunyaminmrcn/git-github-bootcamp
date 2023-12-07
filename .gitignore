@@ -1,0 +1,8 @@
+# Ignore a directory with given location by root folder
+node_modules/
+
+# Ignore a file with given location
+.env
+
+# Any file with log ext.
+*.log
